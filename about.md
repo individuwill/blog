@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Will Smith, no not that Will Smith, and welcome to my blog.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I work as a Network Engineer for a biopharmaceuticals company in northern
+California. When I'm not working I can be found at the gym or with my face burried
+in my laptop geeking out with some new tech or writing code.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+If you find something on my blog that you like, feel free to reach out to me
+via e-mail or twitter. You'll find my contact details in the footer.
+
+In the mean-time, this blog is a work in progress and may be a series of ramblings
+for some time until I figure out what I'm doing. I'm starting this blog to
+capture ideas, leave a trail of documentation for my projects, and hone my
+writing skills.
