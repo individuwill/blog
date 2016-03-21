@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm Will Smith, no not that Will Smith, and welcome to my blog.
+I'm Will Smith, no not that [Will Smith](https://en.wikipedia.org/wiki/Will_Smith),
+and welcome to my blog.
 
 I work as a Network Engineer for a biopharmaceuticals company in northern
 California. When I'm not working I can be found at the gym or with my face burried
